@@ -1,0 +1,43 @@
+
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Playlist Feed</title>
+    <item>
+       <title>Cool</title>
+       <link>http://somafm.co</link>
+    </item>
+    <item>
+       <title>BassDrive AAC</title>
+       <link>http://www.bassdrive.com/v2/streams/BassDrive3.pls</link>
+    </item>
+    <item>
+       <title>BassDrive 128</title>
+       <link>http://www.bassdrive.com/v2/streams/BassDrive.pls</link>
+    </item>
+    <item>
+    	<title>Radio Swiss Classic</title>
+    	<link>http://www.radioswissclassic.ch/live/mp3.m3u</link>
+    </item>
+    <item>
+    	<title>Radio Swiss Jazz</title>
+    	<link>http://www.radioswissjazz.ch/live/mp3.m3u</link>
+    </item>
+    <item>
+    	<title>BBC</title>
+    	<link>http://www.bbc.co.uk/radio/listen/live/r5l_aaclca.pls</link>
+    </item>
+    <item>
+        <title>DropBoxSample</title>
+        <link>https://www.dropbox.com/s/3k0qo44966wujs5/bgGame.mp3</link>
+    </item>
+    <item>
+        <title>Local MP3 file</title>
+        <link>file://test.mp3</link>
+    </item>
+    <item>
+        <title>M3U playlist test</title>
+        <link>https://raw.githubusercontent.com/muhku/FreeStreamer/master/Extra/test-playlist.m3u</link>
+    </item>
+  </channel>
+</rss
